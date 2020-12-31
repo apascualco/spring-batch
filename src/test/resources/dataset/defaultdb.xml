@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <Person id="1" name="Paco" active="true" email="zpaco@gmail.com"/>
+    <Person id="2" name="Roberto" active="true" email="roberto@gmail.com"/>
+    <Person id="3" name="Agustin" active="true" email="aperez@gmail.com"/>
+    <Person id="4" name="Sonia" active="true" email="roso@gmail.com"/>
+    <Person id="5" name="Eva" active="true" email="oretegaeva@gmail.com"/>
+    <Person id="6" name="Ortega" active="true" email="oretelupo@gmail.com"/>
+</dataset>
